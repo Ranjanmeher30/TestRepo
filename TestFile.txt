@@ -1,2 +1,5 @@
-Change 1 in File1
-Change 2 in File1
+Change 1 in File1.
+Change 2 in File1.
+
+
+Make Change in master and commit to execute Rebase.
